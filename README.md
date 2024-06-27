@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JaswanthJHK
 - 👀 I’m interested in App development
-- 🌱 I’m currently learning flutter
 - 📫 How to reach me jaswanthkriz@gmail.com
 
 <!---
